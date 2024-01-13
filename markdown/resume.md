@@ -1,100 +1,90 @@
-Johnny Coder
+David Watson
 ============
 
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+<d@davidwatson.org> 
 
 ----
 
-Education
----------
+> Veteran software professional with experience playing roles from coder to leader. 
+> Worked with interdisciplinary teams from two to two dozen designers, developers, and devops people
+> across cloud native, data center, desktop, and mobile platforms in C++, Python, and other 
+> multi-paradigm programming languages in nimble environments from research labs to software 
+> studios to technology startups.
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+----
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**2023-present** *Technical Consultant (1099)* ***WYVERN Ltd***
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Integrated PHP app to MEAN stack with Python Fast API web services
 
-* First item
+**2021** *Technical Consultant (1099)* ***Caterpillar***
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Built and profiled terrain visualization C++ code ported from Intel to Xilinx ZCU-104
 
-**That Other Job You Had**
+**2020** *Senior Member of Technical Staff (W-2)* ***Carnegie Mellon University***
 
-Also with a short description.
+* R&D on AI, HPC, and HCI within SEI Emerging Technology group
 
-Technical Experience
---------------------
+**2018-2020** *Software Engineering Specialist (W-2)* ***Caterpillar Autonomy Lab***
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* Collaborated with IT to move data storage provisioning to cloud native
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**2016-2018** *Senior Software Developer (W-2)* ***RealPage***
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Designed crawler data pipeline in k8s on Mac to AWS Python/Postgres & MySQL
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**2015-2016** *VP Product Development (W-2)* ***Wellbridge Health***
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* Designed and built Django/Postgres API plus Aptible deployment; MAYA did SPA 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**2013-2014** *Senior Software Developer(W-2)* ***Forever***
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* Prototyped MVP in Python, Flask, Mongo; 1.0 in Ruby/Rails on Heroku/Postgres
 
-[ref]: https://github.com/githubuser/superlongprojectname
+**2011-2012** *Senior Engineer W-2)* ***SMaSh***
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+* Built conversational text interfaces in Python/Flask/Postgres, and Heroku
 
-* Human Languages:
+**2010-2011** *Software Development Manager(W-2)* ***Wellspring Worldwide***
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* Transformed devops from daily site outage to automated CI/CD pipeline 
 
-* Random tidbit
+**2009** *Technical Consultant (1099)* ***TenthRow***
 
-* Other sort of impressive-sounding thing you did
+* Designed and built live music experience via streaming to fans worldwide
 
-----
+**2008** *Usability Consultant (1099)* ***MAYA Design***
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+* Collaborated with MAYA Design on usability of Bayer Diabetes Blood Sugar Monitor
+
+**2008-2009** *Project Engineer (W-2)* ***Applied Perception***
+
+* Ported C# GUI to C++/Qt OCU; Coded Python XML sonar parser/viz C++ GUI/UUV
+
+**2008** *Technical Consultant (1099)* ***Zenit Solutions***
+
+* Designed and implemented python system to track movers via PostGIS and web2py
+
+**2006-2007** *UI Software Developer (W-2)* ***Nomos***
+
+* Wrote C++ QA tests for Corvus radiotherapy product; Prototyped 4D in C++/Qt
+
+**2004-2006** *Software Design Engineer (W-2)* ***MAYA Design***
+
+* Built AJAX stack on Python and NoSQL DB; built predecessor to Phillips Hue C#.net
+
+**2003-2004** *Cofounder (W-2)* ***Cobind***
+
+* Designed, built, and shipped the Cobind Desktop - PoC of the DIY Linux build tools
+
+Education 
+---------
+
+* Duquesne University
+    * BS/BA - Coursework included Business, Computer Science, and Music
+
+* Massachusetts Institute of Technology (MIT) 
+    * (CE) RDBMS and Internet Application Programming (Greenspun/Stonebraker)

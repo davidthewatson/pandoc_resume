@@ -1,0 +1,145 @@
+David Watson
+d@davidwatson.org
+1314 Arrowood Drive
+(412) 614-9301
+Pittsburgh, PA 15243
+
+Software engineer manifesting novel ideas in emerging technology products and services  
+My passion is learning by creating, producing, and reflecting. Some call it action learning.
+A computer science award enabled me to pivot my education as a music school dropout. 
+Finished the  BS at night as a data center programming  internship ignited my love for software. 
+
+Honed my craft automating operations, developing user interfaces, and managing Unix systems. 
+
+As the Unix sun set on my early career, the  Linux sun rose on a fellowship catalyzing my startup.
+Roles followed from rapid prototyping to automated deployment to remodeling MVP→MAYA: Minimum Viable Products→Most Advanced Yet Acceptable.
+
+My management roles are best described as moderator to the middle road from conflict to consensus. Moving consensus from possible to probable is sensemaking, whether it was  agile, lean, or scrumban.
+
+Experience (W-2)
+
+Senior Member of Technical Staff 
+Carnegie Mellon University
+2020
+
+Research & development on AI, HPC, and HCI within SEI Emerging Technology group
+
+Software Engineering Specialist
+Caterpillar
+2018-2020
+
+Design and deliver innovative infrastructure to support the company's autonomous vehicles
+Collaborated with IT to transform data storage provisioning from data center to cloud to cloud native
+Improved forward progress moving prototype toward shipping product
+
+Senior Software Developer
+Rent Jungle
+2016-2018
+
+MVP in production challenged growing client dands with unsustainable devops opportunity costs
+Designed crawler data pipeline in Docker/Kubernetes on Mac to AWS Python/Postgres & MySQL
+Managed daily sessions with team to establish cadence, pairs work, and engineering confidence
+
+VP Product Development
+Wellbridge Health
+2015-2016
+
+MVP supported pilots, but MVP was not market-ready for production deployment
+As CISO, IT Director, and VP Product, deprecated MVP; designed and built behavioral health platform
+Designed and built Django/Postgres API plus Aptible deployment while MAYA completed UX SPA
+
+Senior Software Developer
+Forever
+2013-2014
+
+Series A startup with concept to provide digital storage for 100 years
+Prototyped MVP in Python, Flask, Mongo; Wrote production system in Ruby/Rails on Heroku/Postgres
+Forever continues to sell storage product while integrating complementary assets via M&A
+
+Senior Engineer
+SMaSh
+2011-2012
+
+Juggled customer service & support from Pittsburgh Steelers to Miller Coors plus new development
+Built conversational text interface to track diabetic glycemia in Python/Flask/Postgres, and Heroku
+Worked through a funding shortage and company was eventually acquired by Mind Matrix
+
+Software Development Manager
+Wellspring Worldwide
+2010-2011
+
+Wellspring had a million lines of code in its product, but no tests or automation and data center
+Transformed ops from fire-fighting to automated CI/CD pipeline on Capistrano, Mechanize, and Selenium
+Wellspring is still operating independently today after moving from Pittsburgh to Chicago
+
+Project Engineer
+Applied Perception
+2008-2009
+
+Applied Perception built nascent robotics for military clients
+Ported C# GUI to Linux OCU in C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI to UUV
+Applied Perception was first acquired by Foster-Miller, then Foster-Miller was acquired by QinetiQ
+
+UI Software Developer
+Nomos
+2006-2007
+
+Nomos built radiotherapy treatment planning hardware and software products on Mac OSX
+Wrote C++ QA tests for Corvus radiation oncology product; Prototyped 4D design in C++/Qt
+Nomos was acquired by North American Scientific, then acquired by Best Medical.
+
+Software Design Engineer
+MAYA Design
+2004-2006
+
+MAYA was a design studio and technology research lab founded by 3 CMU professors circa 1989
+Built AJAX stack on Linux & Mac Python and NoSQL DB; built predecessor to Hue C#.net for Philips
+MAYA was acquired by BCG and operates today as BCG Platinion
+
+Co-Founder
+Cobind
+2003-2004
+
+Conceived, marketed and launched startup to build custom Linux distros online
+Designed, built, and shipped the Cobind Desktop - PoC of the DIY build tools
+Reached a worldwide audience quickly using free media and our website via word-of-mouth marketing
+
+Experience (1099)
+
+Technical Consultant
+Caterpillar
+2021
+
+Built and profiled terrain visualization C++ code ported from Intel to Xilinx ZCU-104
+
+Technical Consultant
+TenthRow
+2009
+
+Designed and built live music experience via streaming to fans worldwide
+
+Usability Consultant
+MAYA Design
+2008
+
+Collaborated with MAYA Design on usability of Bayer Diabetes Blood Sugar Monitor
+
+Technical Consultant
+Zenit Solutions
+2008
+
+Designed and implemented python system to track movers via PostGIS and web2py
+
+Education 
+
+Duquesne University
+Bachelor of Science
+
+MIT (CE)
+RDBMS and IAP
+
+Awards
+
+InfoWorld Top 100 Award
+Idea Foundry
+Transformation Fellowship
