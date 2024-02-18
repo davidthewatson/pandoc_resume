@@ -5,72 +5,71 @@ David Watson
 
 ----
 
-> Veteran software professional with experience playing roles from coder to leader. 
-> Worked with interdisciplinary teams from two to two dozen designers, developers, and devops people
-> across cloud native, data center, desktop, and mobile platforms in C++, Python, and other 
-> multi-paradigm programming languages in nimble environments from research labs to software 
-> studios to technology startups.
+> Created emerging technology playing advisor, coder, and founder building nimble
+> environments from R&D labs to tech startups. Worked with interdisciplinary teams 
+> from two to two dozen artists, scientists, and philosophers scaling teams and sketches 
+> from prototypes into products and services. 
 
 ----
 
 Experience
 ----------
 
-**2023-present** *Technical Consultant (1099)* ***WYVERN Ltd***
+**2023-present** *Technical Consultant (1099)* ***[WYVERN Ltd](https://www.wyvernltd.com)***
 
-* Integrated PHP app to MEAN stack with Python Fast API web services
+* Modernized legacy code, culture resulting in better sustainability 
 
-**2021** *Technical Consultant (1099)* ***Caterpillar***
+**2021** *Technical Consultant (1099)* ***[Caterpillar](https://builtin.com/brand-studio/caterpillar-autonomous-intelligent-machinery-is-here-and-now)***
 
-* Built and profiled terrain visualization C++ code ported from Intel to Xilinx ZCU-104
+* Catalyzed terrain visualization code ported from Intel to Xilinx
 
 **2020** *Senior Member of Technical Staff (W-2)* ***Carnegie Mellon University***
 
-* R&D on AI, HPC, and HCI within SEI Emerging Technology group
+* Researched and Developed AI, HPC, and HCI in SEI Emerging Technology group
 
 **2018-2020** *Software Engineering Specialist (W-2)* ***Caterpillar Autonomy Lab***
 
-* Collaborated with IT to move data storage provisioning to cloud native
+* Collaborated with IT executives to move data storage provisioning to cloud native
 
 **2016-2018** *Senior Software Developer (W-2)* ***RealPage***
 
-* Designed crawler data pipeline in k8s on Mac to AWS Python/Postgres & MySQL
+* Transformed legacy crawler into modern cloud native data pipeline
 
 **2015-2016** *VP Product Development (W-2)* ***Wellbridge Health***
 
-* Designed and built Django/Postgres API plus Aptible deployment; MAYA did SPA 
+* Sunset MVP and built API and production deployment; MAYA built UX/UI 
 
 **2013-2014** *Senior Software Developer(W-2)* ***Forever***
 
-* Prototyped MVP in Python, Flask, Mongo; 1.0 in Ruby/Rails on Heroku/Postgres
+* Prototyped MVP solo; developed 1.0-2.0 production with team of 4;
 
 **2011-2012** *Senior Engineer W-2)* ***SMaSh***
 
-* Built conversational text interfaces in Python/Flask/Postgres, and Heroku
+* Built conversational text interfaces with a team of 2
 
 **2010-2011** *Software Development Manager(W-2)* ***Wellspring Worldwide***
 
-* Transformed devops from daily site outage to automated CI/CD pipeline 
+* Led team to transform legacy deployment to automated CI/CD pipeline 
 
 **2009** *Technical Consultant (1099)* ***TenthRow***
 
-* Designed and built live music experience via streaming to fans worldwide
+* Developed live music experience streaming to fans worldwide
 
 **2008** *Usability Consultant (1099)* ***MAYA Design***
 
-* Collaborated with MAYA Design on usability of Bayer Diabetes Blood Sugar Monitor
+* Provided design feedback to MAYA Design on usability of Bayer Diabetes Glycemic Monitor
 
 **2008-2009** *Project Engineer (W-2)* ***Applied Perception***
 
-* Ported C# GUI to C++/Qt OCU; Coded Python XML sonar parser/viz C++ GUI/UUV
+* Ported GUI to OCU; Coded sonar parser/visualization bridging sensors->UI
 
 **2008** *Technical Consultant (1099)* ***Zenit Solutions***
 
-* Designed and implemented python system to track movers via PostGIS and web2py
+* Designed and implemented python system to track inbound/outbound movers 
 
 **2006-2007** *UI Software Developer (W-2)* ***Nomos***
 
-* Wrote C++ QA tests for Corvus radiotherapy product; Prototyped 4D in C++/Qt
+* Wrote QA tests for Corvus radiotherapy product; Designed and Prototyped 4D UI/UX
 
 **2004-2006** *Software Design Engineer (W-2)* ***MAYA Design***
 
@@ -78,13 +77,31 @@ Experience
 
 **2003-2004** *Cofounder (W-2)* ***Cobind***
 
-* Designed, built, and shipped the Cobind Desktop - PoC of the DIY Linux build tools
+* Designed, built, and shipped the Cobind Desktop to test the DIY Linux build tools
 
 Education 
 ---------
 
-* Duquesne University
-    * BS/BA - Coursework included Business, Computer Science, and Music
+* **Duquesne University**
+    * ***BS/BA*** - Coursework included Business, Computer Science, and Music
 
-* Massachusetts Institute of Technology (MIT) 
-    * (CE) RDBMS and Internet Application Programming (Greenspun/Stonebraker)
+Continuing Education
+--------------------
+
+* **Git Foundations Workshop** 
+    * Github
+
+* **Massachusetts Institute of Technology (MIT)** 
+    * (CE) RDBMS and Internet Application Programming 
+
+* **Programming Arduino** ***Physical Pixels***
+    * Hack PGH 
+
+Awards
+------
+
+* **Idea Foundry** 
+    * [Transformation Fellowship](https://www.ideafoundry.org/about#:~:text=Our%20initial%20program%2C%20The%20Transformational%20Fellowship%2C%20has%20evolved%20into%20our%20Impact%20Innovation%20Program%20and%20its%20portfolio%20has%20grown%20and%20created%20impact%20throughout%20the%20world.)
+
+* **InfoWorld** 
+    * [Top 100 Award](https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false)
