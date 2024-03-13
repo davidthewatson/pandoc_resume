@@ -5,10 +5,7 @@ David Watson
 
 ----
 
-> Created emerging technology playing advisor, coder, and founder building nimble
-> environments from R&D labs to tech startups. Worked with interdisciplinary teams 
-> from two to two dozen artists, scientists, and philosophers scaling teams and sketches 
-> from prototypes into products and services. 
+> Software engineer making protoypes into products from design studios to tech startups to R&D labs. 
 
 ----
 
@@ -17,82 +14,98 @@ Experience
 
 **2023-present** *Technical Consultant (1099)* ***[WYVERN Ltd](https://www.wyvernltd.com)***
 
-* Modernized legacy code, culture resulting in better sustainability 
+* Integrated legacy PHP and Typescript point products into unified product suite 
 
 **2021** *Technical Consultant (1099)* ***[Caterpillar](https://builtin.com/brand-studio/caterpillar-autonomous-intelligent-machinery-is-here-and-now)***
 
-* Catalyzed terrain visualization code ported from Intel to Xilinx
+* Built and optimized terrain visualization code ported from Intel to Xilinx
 
-**2020** *Senior Member of Technical Staff (W-2)* ***Carnegie Mellon University***
+**2020** *Senior Member of Technical Staff (W-2)* ***[Carnegie Mellon University](https://www.cmu.edu/)***
 
 * Researched and Developed AI, HPC, and HCI in SEI Emerging Technology group
 
-**2018-2020** *Software Engineering Specialist (W-2)* ***Caterpillar Autonomy Lab***
+**2018-2020** *Software Engineering Specialist (W-2)* ***[Caterpillar](https://builtin.com/brand-studio/caterpillar-autonomous-intelligent-machinery-is-here-and-now)***
 
 * Collaborated with IT executives to move data storage provisioning to cloud native
 
-**2016-2018** *Senior Software Developer (W-2)* ***RealPage***
+**2016-2018** *Senior Software Developer (W-2)* ***[RealPage](https://www.realpage.com/)***
 
 * Transformed legacy crawler into modern cloud native data pipeline
 
-**2015-2016** *VP Product Development (W-2)* ***Wellbridge Health***
+**2015-2016** *VP Product Development (W-2)* ***[Wellbridge Health](http://wellbridgehealth.com/licensing)***
 
-* Sunset MVP and built API and production deployment; MAYA built UX/UI 
+* Sunset MVP, built API backend and production deployment; MAYA designed and developed UX/UI 
 
-**2013-2014** *Senior Software Developer(W-2)* ***Forever***
+**2013-2014** *Senior Software Developer(W-2)* ***[Forever](https://www.forever.com/)***
 
 * Prototyped MVP solo; developed 1.0-2.0 production with team of 4;
 
-**2011-2012** *Senior Engineer W-2)* ***SMaSh***
+**2011-2012** *Senior Engineer W-2)* ***[SMaSh](https://www.mindmatrix.net/)***
 
 * Built conversational text interfaces with a team of 2
 
-**2010-2011** *Software Development Manager(W-2)* ***Wellspring Worldwide***
+**2010-2011** *Software Development Manager(W-2)* ***[Wellspring Worldwide](https://www.wellspring.com/)***
 
-* Led team to transform legacy deployment to automated CI/CD pipeline 
+* Led team to transform legacy data center deployment to automated CI/CD pipeline 
 
-**2009** *Technical Consultant (1099)* ***TenthRow***
+**2009** *Technical Consultant (1099)* ***[TenthRow](https://www.youtube.com/@TenthRowConcerts)***
 
-* Developed live music experience streaming to fans worldwide
+* Developed live music experience in the browser streaming to fans worldwide
 
-**2008** *Usability Consultant (1099)* ***MAYA Design***
+**2008** *Usability Consultant (1099)* ***[MAYA Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps)***
 
 * Provided design feedback to MAYA Design on usability of Bayer Diabetes Glycemic Monitor
 
-**2008-2009** *Project Engineer (W-2)* ***Applied Perception***
+**2008-2009** *Project Engineer (W-2)* ***[Qinetiq](https://www.qinetiq.com/en/what-we-do/services-and-products/talon-medium-sized-tactical-robot)***
 
 * Ported GUI to OCU; Coded sonar parser/visualization bridging sensors->UI
 
-**2008** *Technical Consultant (1099)* ***Zenit Solutions***
+**2008** *Technical Consultant (1099)* ***[Zenit Solutions](http://www.movemarker.com/pdf/Zenit_whitepaper.pdf)***
 
-* Designed and implemented python system to track inbound/outbound movers 
+* Designed and implemented python system to track inbound/outbound movers in Google Maps 
 
-**2006-2007** *UI Software Developer (W-2)* ***Nomos***
+**2006-2007** *UI Software Developer (W-2)* ***[Nomos](http://www.nomos.com/)***
 
 * Wrote QA tests for Corvus radiotherapy product; Designed and Prototyped 4D UI/UX
 
-**2004-2006** *Software Design Engineer (W-2)* ***MAYA Design***
+**2004-2006** *Software Design Engineer (W-2)* ***[MAYA](https://www.gbbn.com/work/maya-design-headquarters/) Design***
 
-* Built AJAX stack on Python and NoSQL DB; built predecessor to Phillips Hue C#.net
+* Built AJAX stack on Python and NoSQL DB; built predecessor to Phillips Hue in C#.net
 
-**2003-2004** *Cofounder (W-2)* ***Cobind***
+**2003-2004** *Cofounder (W-2)* ***[Cobind](https://rubenerd.com/p1191/)***
 
 * Designed, built, and shipped the Cobind Desktop to test the DIY Linux build tools
+
+**2000-2003** *Senior Software Engineer (W-2)* ***[Management Science Associates](https://www.msa.com/)***
+
+* Designed and built web services client-server which imported products from Excel through VBA
+
+**1995-2000** *Principal Member of Technical Staff (W-2)* ***[ca technologies](https://en.wikipedia.org/wiki/CA_Technologies)***
+
+* Contributed C++ code to Legent Automation Point, Platinum Raveler, and CA-Unicenter products
+
+**1992-1995** *Programmer (W-2)* ***[Mellon Financial](https://en.wikipedia.org/wiki/Mellon_Financial)***
+
+* Contributed C++ on Executive Workbench product on OS/2. Wrote first bank-wide rolodex in VB.
+
+**1990-1992** *Programmer (W-2)* ***[United States Steel](https://en.wikipedia.org/wiki/U.S._Steel)***
+
+* Wrote HLLAPI security automation utilities in Microsoft Basic on Windows and Microsoft C on OS/2
 
 Education 
 ---------
 
-* **Duquesne University**
+* **[Duquesne University](https://www.duq.edu/)**
     * ***BS/BA*** - Coursework included Business, Computer Science, and Music
 
-Continuing Education
+Learning
 --------------------
 
 * **Git Foundations Workshop** 
     * Github
 
 * **Massachusetts Institute of Technology (MIT)** 
-    * (CE) RDBMS and Internet Application Programming 
+    * (CE) RDBMS and Internet Application Programming - Greenspun and Stonebraker
 
 * **Programming Arduino** ***Physical Pixels***
     * Hack PGH 
