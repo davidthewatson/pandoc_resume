@@ -4,8 +4,7 @@
 
 **Objective**
 
-I seek a career requiring a return-to-office (RTO) as well as  creativity, curiosity, and continuous learning.
-
+I seek a career requiring creativity, curiosity, continuous learning, and a return-to-office. 
 
 **Awards**
 
@@ -20,8 +19,7 @@ I seek a career requiring a return-to-office (RTO) as well as  creativity, curio
 
 **Skills**
 
-* IT Software Development Life Cycle: Estimate, Plan, Provision, Deploy, Rollback, Productize, Remodel
-* Technology Product Design and Deployment: Commercial, Desktop, Mobile, Cloud Native, SaaS
+* Technology Product Software, Design, Development and Deployment: Commercial, Desktop, Mobile, Cloud Native, SaaS
 * Full Stack Software Development: API to HCI: Functional, OO, ORM, Django, Flask, Rails, Qt, REST
 * Human Skills: Agile, Critical Thinking, Design Thinking, Feedback, Interviewing, Mentoring, Code Review
 
@@ -43,14 +41,15 @@ I seek a career requiring a return-to-office (RTO) as well as  creativity, curio
 * 2003-2004 [Cobind](https://no.wikipedia.org/wiki/Cobind_Desktop) *Cofounder* - low-code, no-code [DiY Linux and Desktop products](https://www.wplug.org/mediawiki/images/8/82/2004-06-05-cobind-pres.pdf).
 
 **Reputation**
-
-Coworkers said, an [*amazing listener*](https://www.linkedin.com/in/davidthewatson/details/recommendations/), [*great collaborator*](https://www.linkedin.com/in/davidthewatson/details/recommendations/), and [*excellent engineer*](https://www.linkedin.com/in/davidthewatson/details/recommendations/) *who cares about the users of systems he's building*, thinks creatively and non-linearly, and sees the bigger technological picture.
+rCoworkers said, an [*amazing listener*](https://www.linkedin.com/in/davidthewatson/details/recommendations/), [*great collaborator*](https://www.linkedin.com/in/davidthewatson/details/recommendations/), and [*excellent engineer*](https://www.linkedin.com/in/davidthewatson/details/recommendations/) *who cares about the users of systems he's building*. 
 
 **Education**
 
-**Certificate** at [MIT](https://www.mit.edu/): [RDBMS and Internet Application Programming](http://philip.greenspun.com/teaching/three-day-rdbms/) (Greenspun/Stonebraker) 2012
+**BS/BA** from [Duquesne University](https://www.duq.edu/) with additional coursework in *Computer Science* and *Music* 
 
-**BS/BA** from [Duquesne University](https://www.duq.edu/) with additional coursework in *Computer Science* and *Music* 1991
+**Continuing Education**
+
+**** [MIT](https://www.mit.edu/): [RDBMS and Internet Application Programming](http://philip.greenspun.com/teaching/three-day-rdbms/) (Greenspun/Stonebraker) 2012
 
 ----
 
